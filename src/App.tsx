@@ -1,10 +1,12 @@
+import { Outlet } from "react-router"
 import { Button } from "./components/ui/button"
 
 function App() {
   
   return (
     <>
-     <p>This is single app with shadcn</p>
+     <p>This is single app Component</p>
+     <Outlet/>
      <Button>Click Me</Button>
     </>
   )

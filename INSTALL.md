@@ -56,3 +56,12 @@ npx shadcn@latest init
 ```bash
 npx shadcn@latest add button
 ```
+
+### UI:
+Originui : https://originui.com/
+Hyperui : https://www.hyperui.dev/
+
+
+```bash
+npx shadcn@latest add https://originui.com/r/comp-577.json
+```

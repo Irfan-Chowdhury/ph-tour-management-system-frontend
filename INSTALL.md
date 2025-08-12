@@ -62,6 +62,7 @@ Originui : https://originui.com/
 Hyperui : https://www.hyperui.dev/
 
 
+### Navbar Install : (originui)
 ```bash
 npx shadcn@latest add https://originui.com/r/comp-577.json
 ```

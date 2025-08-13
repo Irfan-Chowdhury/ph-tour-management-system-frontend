@@ -77,3 +77,9 @@ https://ui.shadcn.com/docs/components/form
 npx shadcn@latest add form
 npx shadcn@latest add input
 ```
+
+### Redux Toolkit
+
+```bash
+npm install @reduxjs/toolkit react-redux
+```

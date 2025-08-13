@@ -107,7 +107,7 @@ export default function Navbar() {
         <div className="flex items-center gap-2">
           <ModeToggle/>
           <Button asChild variant="ghost" size="sm" className="text-sm">
-            <a href="#">Sign In</a>
+            <a href="/login">Sign In</a>
           </Button>
           <Button asChild size="sm" className="text-sm">
             <a href="#">Get Started</a>

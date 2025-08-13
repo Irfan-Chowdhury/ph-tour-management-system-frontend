@@ -66,3 +66,14 @@ Hyperui : https://www.hyperui.dev/
 ```bash
 npx shadcn@latest add https://originui.com/r/comp-577.json
 ```
+
+### shadcn form : 
+
+https://ui.shadcn.com/docs/components/form
+
+**installtion** : 
+
+```bash
+npx shadcn@latest add form
+npx shadcn@latest add input
+```

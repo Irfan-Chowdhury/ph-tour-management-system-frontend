@@ -76,10 +76,12 @@ https://ui.shadcn.com/docs/components/form
 ```bash
 npx shadcn@latest add form
 npx shadcn@latest add input
+npx shadcn@latest add sonner
 ```
 
 ### Redux Toolkit
 
 ```bash
 npm install @reduxjs/toolkit react-redux
+
 ```

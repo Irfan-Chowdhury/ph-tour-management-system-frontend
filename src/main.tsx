@@ -6,12 +6,14 @@ import './index.css'
 import { router } from './routes/index.tsx'
 import { ThemeProvider } from "./providers/theme.provider.tsx";
 import { RouterProvider } from "react-router-dom";
+import { Toaster } from "sonner";
 
 
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
       <ThemeProvider defaultTheme="system" storageKey="vite-ui-theme">
         <RouterProvider router={router}/>
+        <Toaster></Toaster>
       </ThemeProvider>
     
   </React.StrictMode>,
